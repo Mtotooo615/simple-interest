@@ -1,0 +1,1 @@
+{"a":"simple interest","b":"#include\u003cstdio.h\u003e\n\nint main()\n{\nfloat p,r,t,si;\nprintf(\"enter the principle amount,\\n\");\nscanf(\"%f\",\u0026p);\nprintf(\"enter the rate\");\nscanf(\"%f\",\u0026r);\nprintf(\"enter time in years\");\nscanf(\"%f\",\u0026t);\nsi\u003d(p*r*t)/100;\n\nprintf(\"si\u003d%f\",si);\n\nreturn 0;\n}","c":"CPP"}
